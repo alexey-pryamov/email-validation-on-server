@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://alexey-pramov:Derja087@github.com/alexey-pryamov/email-validation-on-server.git"
+    "url": "git+https://github.com/alexey-pryamov/email-validation-on-server.git"
   },
   "author": "",
   "license": "ISC",
