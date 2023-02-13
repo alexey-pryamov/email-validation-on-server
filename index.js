@@ -13,4 +13,3 @@ var email_validation = function(email, callback, error_cb) {
 	}
     });
 }
-
