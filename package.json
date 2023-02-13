@@ -1,0 +1,19 @@
+{
+  "name": "email-validation-on-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://alexey-pramov:Derja087@github.com/alexey-pryamov/email-validation-on-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexey-pryamov/email-validation-on-server/issues"
+  },
+  "homepage": "https://github.com/alexey-pryamov/email-validation-on-server#readme"
+}

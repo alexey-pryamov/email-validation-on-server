@@ -1,0 +1,17 @@
+<!DOCTYPE>
+<html>
+<head>
+    <script type="text/javascript"
+            src="https://raw.githubusercontent.com/alexey-pryamov/email-validation-on-server/main/index.js">
+    </script>
+</head>
+<body>
+    <script type="text/javascript">
+	email_validation('test@mail.ru', function(event){
+	    console.log(event);
+	}, function(event_error) {
+	    console.error(event_error);
+	});
+    </script>
+</body>
+</html>
